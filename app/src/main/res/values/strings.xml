@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="enter_todo">Мои дела</string>
+    <string name="add">Добавить</string>
+    <string name="delete">Убрать выполненное</string>
+
+</resources>
